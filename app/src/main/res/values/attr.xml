@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ButtonBarTheme">
+        <attr name="buttonBarStyle" format="reference"/>
+        <attr name="buttonBarButton" format="reference"/>
+
+    </declare-styleable>
+    <declare-styleable name="PongTable">
+        <attr name="racketHeight" format="integer"/>
+        <attr name="racketWidth" format="integer"/>
+        <attr name="ballRaius" format="integer"/>
+
+    </declare-styleable>
+</resources>

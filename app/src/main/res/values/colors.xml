@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="table">#474444</color>
+    <color name="player">#FFE82E</color>
+    <color name="opponent">#98EFFF</color>
+    <color name="ball">#FF0031</color>
+</resources>
