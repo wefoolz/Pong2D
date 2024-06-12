@@ -7,6 +7,7 @@ public class Ball {
     public float cx;
     public float cy;
     public float velocity_x;
+    public int m;
     public float velocity_y;
 
     private int radius;
